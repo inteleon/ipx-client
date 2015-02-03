@@ -8,6 +8,10 @@
             "email": "andtyl@gmail.com"
         }
     ],
+    "require": {
+        "php": ">=5.3.0",
+        "inteleon/soap-client": "~1.0"
+    },    
     "autoload": {
         "psr-4": {
             "Inteleon\\Ipx\\": "src/"
