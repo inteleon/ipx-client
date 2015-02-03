@@ -1,0 +1,16 @@
+{
+    "name": "inteleon/ipx-client",
+    "description": "IPX Client",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andreas Tylegard",
+            "email": "andtyl@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Inteleon\\Ipx\\": "src/"
+        }
+    }
+}
